@@ -1,5 +1,5 @@
 export const InstagramLogo = () => (
-	<img src="./dist/logonew.png" alt="instagram" />
+	<img src="./dist/logohuh.png" alt="instagram" />
 );
 
 export const InstagramMobileLogo = () => (
